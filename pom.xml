@@ -9,7 +9,7 @@
     <packaging>jar</packaging>
 
     <name>property-placeholder-resolver</name>
-    <url>http://eionet.europa.eu</url>
+    <url>https://github.com/eea/eionet.property-placeholder-resolver</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
