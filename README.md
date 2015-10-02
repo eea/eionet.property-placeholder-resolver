@@ -1,0 +1,1 @@
+# eionet.property-placeholder-resolver
