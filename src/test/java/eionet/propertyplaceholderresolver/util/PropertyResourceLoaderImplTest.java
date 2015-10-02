@@ -1,5 +1,6 @@
-package eu.europa.eionet.propertyplaceholderresolver.util;
+package eionet.propertyplaceholderresolver.util;
 
+import eionet.propertyplaceholderresolver.util.PropertyResourceLoaderImpl;
 import java.io.IOException;
 import java.util.Properties;
 import org.junit.Test;

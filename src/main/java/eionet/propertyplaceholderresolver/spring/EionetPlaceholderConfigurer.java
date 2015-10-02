@@ -1,8 +1,8 @@
-package eu.europa.eionet.propertyplaceholderresolver.spring;
+package eionet.propertyplaceholderresolver.spring;
 
-import eu.europa.eionet.propertyplaceholderresolver.CircularReferenceException;
-import eu.europa.eionet.propertyplaceholderresolver.ConfigurationPropertyResolver;
-import eu.europa.eionet.propertyplaceholderresolver.UnresolvedPropertyException;
+import eionet.propertyplaceholderresolver.CircularReferenceException;
+import eionet.propertyplaceholderresolver.ConfigurationPropertyResolver;
+import eionet.propertyplaceholderresolver.UnresolvedPropertyException;
 import java.util.Properties;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.FatalBeanException;

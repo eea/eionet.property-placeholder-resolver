@@ -3,9 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package eu.europa.eionet.propertyplaceholderresolver;
+package eionet.propertyplaceholderresolver;
 
-import eu.europa.eionet.propertyplaceholderresolver.util.PropertyResourceLoader;
+import eionet.propertyplaceholderresolver.ConfigurationDefinitionProvider;
+import eionet.propertyplaceholderresolver.ConfigurationDefinitionProviderImpl;
+import eionet.propertyplaceholderresolver.util.PropertyResourceLoader;
 import java.io.IOException;
 import java.util.Map;
 import java.util.Properties;

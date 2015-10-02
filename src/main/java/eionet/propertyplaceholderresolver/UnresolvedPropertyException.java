@@ -1,4 +1,4 @@
-package eu.europa.eionet.propertyplaceholderresolver;
+package eionet.propertyplaceholderresolver;
 
 public class UnresolvedPropertyException extends Exception {
 

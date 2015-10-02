@@ -3,9 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package eu.europa.eionet.propertyplaceholderresolver;
+package eionet.propertyplaceholderresolver;
 
-import eu.europa.eionet.propertyplaceholderresolver.util.ConfigurationLoadException;
+import eionet.propertyplaceholderresolver.CircularReferenceException;
+import eionet.propertyplaceholderresolver.ConfigurationDefinitionProvider;
+import eionet.propertyplaceholderresolver.ConfigurationPropertyResolverImpl;
+import eionet.propertyplaceholderresolver.UnresolvedPropertyException;
+import eionet.propertyplaceholderresolver.util.ConfigurationLoadException;
 import java.util.HashMap;
 import java.util.Map;
 import static junit.framework.TestCase.assertEquals;

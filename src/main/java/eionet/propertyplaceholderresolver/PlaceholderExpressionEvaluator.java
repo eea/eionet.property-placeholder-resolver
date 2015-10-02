@@ -1,4 +1,4 @@
-package eu.europa.eionet.propertyplaceholderresolver;
+package eionet.propertyplaceholderresolver;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

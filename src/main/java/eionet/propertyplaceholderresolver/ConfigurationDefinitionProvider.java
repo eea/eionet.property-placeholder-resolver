@@ -1,7 +1,7 @@
-package eu.europa.eionet.propertyplaceholderresolver;
+package eionet.propertyplaceholderresolver;
 
 
-import eu.europa.eionet.propertyplaceholderresolver.util.ConfigurationLoadException;
+import eionet.propertyplaceholderresolver.util.ConfigurationLoadException;
 import java.util.Map;
 
 /**

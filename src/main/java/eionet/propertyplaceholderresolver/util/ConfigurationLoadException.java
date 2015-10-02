@@ -1,4 +1,4 @@
-package eu.europa.eionet.propertyplaceholderresolver.util;
+package eionet.propertyplaceholderresolver.util;
 
 /**
  *

@@ -1,8 +1,8 @@
-package eu.europa.eionet.propertyplaceholderresolver;
+package eionet.propertyplaceholderresolver;
 
-import eu.europa.eionet.propertyplaceholderresolver.util.ConfigurationLoadException;
-import eu.europa.eionet.propertyplaceholderresolver.util.PropertyResourceLoader;
-import eu.europa.eionet.propertyplaceholderresolver.util.PropertyResourceLoaderImpl;
+import eionet.propertyplaceholderresolver.util.ConfigurationLoadException;
+import eionet.propertyplaceholderresolver.util.PropertyResourceLoader;
+import eionet.propertyplaceholderresolver.util.PropertyResourceLoaderImpl;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
